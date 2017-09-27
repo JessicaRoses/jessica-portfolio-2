@@ -1,0 +1,103 @@
+/* color: #0DD69C, #223D35, #1AA32E, #AE4894, #CB85D6*/
+
+/* font family: libre baskerville, lily script one*/ 
+
+body {
+    background-color:#CB85D6;
+    background-size: 100%;
+    font-family: 'Libre Baskerville', serif; 
+    font-size: 100%;
+    margin: 0, auto;
+    width: 900px;
+}
+ 
+header {
+    background-color:#AE4894;
+    min-height: 30px;
+        
+}
+
+.gallery figure {
+    color:#223D35;
+    float:inherit;
+    height: 200px;
+    margin: 20px;
+    text-align: center;
+    width: 28%
+}
+
+h1 {
+    font-family: 'Lily Script One', cursive;
+    text-align: center;
+    color: black;
+    font-size: 2em;
+    padding-top: 15px;
+}
+
+h2 {
+    font-family: 'Lily Script One', cursive;
+    text-align: center;
+    color: black;
+    font-size: 1.5em;
+}
+
+h3 {}
+
+p {    
+    font-family: 'Libre Baskerville', serif;
+    text-align: left;
+    color: black;
+    font-size: 1.0em;
+}
+
+
+nav {
+    background-color: #0DD69C;
+    min-height: 100px;
+    width: 900px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+nav ul {
+    background-color:#0DD69C;
+    list-style-type: none;
+    text-align: center: 
+    
+}
+
+nav li {
+    display: inline-block;
+}
+
+.nav-links a:link {
+    color: #FFF;
+    text-decoration: none;
+}
+
+.nav-links a:visited {
+    color: #FFF;
+    text-decoration: none;
+}
+
+.nav-links a:hover {
+    color: #1AA32E;
+    text-decoration: none;
+}
+
+
+main {
+    background-color: #0DD69C
+    width: 600px;
+}
+
+img {
+    float:center; 
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
